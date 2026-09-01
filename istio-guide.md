@@ -3,7 +3,7 @@
 > 本文档面向实际运维与开发场景，覆盖 Istio 服务网格在日常使用中的高频操作、常见问题与解决方案。所有命令均经过生产环境验证，可直接复制使用。
 >
 > 适用版本：Istio 1.18+
-> 文档位置：`d:\文件\test\tools\istio-guide.md`
+> 文档位置：`tools\istio-guide.md`
 > 配套文档：[Kubernetes 日常操作实战手册](./k8s-guide.md)
 
 ---
