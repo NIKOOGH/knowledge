@@ -3,7 +3,7 @@
 > 本文档面向实际运维与开发场景，覆盖 Kubernetes（K8s）在日常使用中的高频操作、常见问题与解决方案。所有命令均经过生产环境验证，可直接复制使用。
 >
 > 适用版本：Kubernetes 1.24+
-> 文档位置：`d:\文件\test\tools\k8s-guide.md`
+> 文档位置：`tools\k8s-guide.md`
 > 配套文档：[Istio 日常操作实战手册](./istio-guide.md)
 
 ---
